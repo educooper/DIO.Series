@@ -28,7 +28,7 @@
 
 Neste projeto pude praticar a criação de um APP do zero partindo com .NET 5.0 c# no Visual Studio Code seguindo as melhores práticas do mercado.
 
-Conseguimos praticar a refatoração do código usando o design pattern Repository o qual descentraliza requisições e elmentos dos arquivos .class principais. Tamb´me trabalhamos com ENUM e listas por meio de tipagem de dados.
+Conseguimos praticar a refatoração do código usando o design pattern Repository o qual descentraliza requisições e elmentos dos arquivos .class principais. Também trabalhamos com ENUM e listas por meio de tipagem de dados.
 
 
 
